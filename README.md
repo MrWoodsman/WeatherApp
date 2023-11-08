@@ -1,4 +1,4 @@
-![image](https://github.com/MrWoodsman/WeatherApp/assets/62749434/7960b73a-43dd-44e6-8cbe-9aea8b0c37be)# Strona z pogoda
+# Strona z pogoda
 
 Wyświetla pogodę dla wpisanej lokalizacji wraz z losowym zdjęciem jeśli uda się znaleźć dla wpisanej lokazlicaji 
 
